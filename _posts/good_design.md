@@ -1,1 +1,4 @@
-##Good Design
+---
+layout: post
+title: Good Design
+---
