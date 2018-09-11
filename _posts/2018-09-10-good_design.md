@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good Design
-subtitle: Mobile Wallet
+subtitle: ID's, on the go!
 ---
 
 As Williams students, especially those of us who live in dorms and/or are on the meal plan, it is important to always have our student ID's with us. Some people carry them around in their wallets or on large clunky keychains, but that requires the extra thought and space of carrying an additional item they might not have otherwise needed. However, one thing that almost every college student carries with them religiously is their cellphone. This is the fundamental reason why the card sleeves that stick on the backs of cellphones are such good design.
