@@ -3,7 +3,6 @@ layout: post
 title: Bad Design
 subtitle: The Light Switch Hike
 bigimg: /img/switch.jpg
-tags: [books, test]
 ---
 
 The first time I came to visit my friend's off campus apartment was at night when there was no longer natural light coming in through the windows. After a lovely dinner, I really had to use the restroom, and given that it was dark outside, began searching for the light switch. I am accustomed to odly placed light switches; however, this one was impossible to find. Finally, my friends noticed how much I was struggling and told me that the switch was all the way on the far wall of the bathroom.
