@@ -9,7 +9,7 @@ tags: [books, test]
 
 My friend’s bathroom is overall poorly designed; however, the greatest design flaw is that the light switch is at the far end of the bathroom. Since the bathroom is already abnormally long, you have to walk all the way to the far end of the bathroom to turn on the light, then walk back to close the door. 
 
-![Bathroom](https://cmpelz.github.com/cmpelz.github.io/img/bathroom.jpg)
+img: /img/bathroom.jpg
 
 This feels particularly flawed, as the bathroom is such a high traffic room, and is often used at night, meaning you have to negotiate your way through the dark to find the light switch. I have already been in the apartment countless times when someone new comes to visit and inevitably asks where the switch is after spending an inordinate amount of time searching all the typical locations for it. As a result, the light is frequently left on constantly, wasting an unnecessary amount of electricity.
 
