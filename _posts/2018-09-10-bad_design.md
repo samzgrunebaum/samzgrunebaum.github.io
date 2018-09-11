@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bad Design
-subtitle: The light switch hike
+subtitle: The Light Switch Hike
 bigimg: /img/switch.jpg
 tags: [books, test]
 ---
