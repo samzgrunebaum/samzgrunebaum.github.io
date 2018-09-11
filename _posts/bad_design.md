@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Good Design
-image: /img/bathroom.jpeg
+title: Bad Design
+subtitle: The light switch hike
+bigimg: /img/bathroom.jpg
+tags: [books, test]
 ---
 
 
