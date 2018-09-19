@@ -9,8 +9,7 @@ subtitle: Picture Yourself in Art
 I am always struck at museums with visitors use of cameras and insistence upon taking pictures of the art hanging on the wall. Many people have realized that simply taking a picture of the art is unnecessary because of the bounty of high-resolution images of said pieces available online. In order, then to make the picture more interesting and unique, people pose in front of the art so the photo contains themselves as well. 
 
 ![Williams Painting](/img/williamsPainting.jpg)
-
-<sup>1</sup>
+        <sup>1</sup>
 
 
 ### The Problem
