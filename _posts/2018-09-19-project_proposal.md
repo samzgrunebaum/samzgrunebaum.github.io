@@ -29,3 +29,8 @@ Whatever the case may be, this design would provide an interesting alternative t
 ### Remaining Questions
 
 While this design could help preserve the experience of visitors seeking to engage with the pieces of art uninterrupted, it has the potential to draw attention away from the actual art on the walls in a distracting and detrimental way. The question stands then, of how to create a balance such that the museum experience is preserved and enriched without distracting visitors too far away from the actual art. 
+
+##### Citations
+
+Kourlas, Gia. “The Costumes in Modern Dance's Attic.” The New York Times, The New York Times, 19 June 2018,     
+  www.nytimes.com/2018/06/19/arts/dance/the-costumes-in-modern-dances-attic.html.
