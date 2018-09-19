@@ -8,4 +8,8 @@ I am always struck at museums with visitors use of cameras and insistence upon t
 
 The solution I propose is to develop a program where visitors could pull up a preexisting image of the piece of art (presumably from the museum’s database), and superimpose an image of themselves into the work of art. Not only would this help to solve the problem of keeping a view of the work unobstructed, but it would be a fun and exciting new way to engage with art. 
 
-Maybe you put your face on the “Mona Lisa”, or position yourself floating through “Starry Night”, or perhaps you place yourself in the costumes on display in the “Dance We Must” exhibit in WCMA. Whatever the case may be, this design would provide an interesting alternative to waiting your turn to take a photo in front of the art that would be fun for all ages. I could envision this design particularly taking hold amongst young kids for whom this would offer a way to keep them entertained while also helping them engage with the art.
+Maybe you put your face on the “Mona Lisa”, or position yourself floating through “Starry Night”, or perhaps you place yourself in the costumes on display in the “Dance We Must” exhibit in WCMA. 
+
+!["Dance We Must" Costume](/img/danceCostume.jpg)
+
+Whatever the case may be, this design would provide an interesting alternative to waiting your turn to take a photo in front of the art that would be fun for all ages. I could envision this design particularly taking hold amongst young kids for whom this would offer a way to keep them entertained while also helping them engage with the art.
