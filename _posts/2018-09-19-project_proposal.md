@@ -24,4 +24,8 @@ Maybe you put your face on the “Mona Lisa”, or position yourself floating th
 
 !["Dance We Must" Costume](/img/danceCostume.jpg)
 
-Whatever the case may be, this design would provide an interesting alternative to waiting your turn to take a photo in front of the art that would be fun for all ages. I could envision this design particularly taking hold amongst young kids for whom this would offer a way to keep them entertained while also helping them engage with the art.
+Whatever the case may be, this design would provide an interesting alternative to waiting your turn to take a photo in front of the art, plus it would be fun for all ages. I could envision this design particularly taking hold amongst young kids for whom it would offer a way to keep them entertained while also helping them engage with the art. While older visitors may use the program to create artistic souveniers of their time in the museum, children would have fun wandering the exhibits looking for interesting pieces to insert themselves into, and then inventing creative ways to do so. 
+
+### Remaining Questions
+
+While this design could help preserve the experience of visitors seeking to engage with the pieces of art uninterrupted, it has the potential to draw attention away from the actual art on the walls in a distracting and detrimental way. The question stands then, of how to create a balance such that the museum experience is preserved and enriched without distracting visitors too far away from the actual art. 
