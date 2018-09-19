@@ -21,7 +21,7 @@ However, this incites a new problem where people vie to get their chance to pose
 
 I propose a program where visitors could pull up a preexisting image of the piece of art (presumably from the museum’s database), and superimpose an image of themselves into the work of art. Not only would this help to solve the problem of keeping a view of the work unobstructed, but it would be a fun and exciting new way to engage with art. 
 
-Maybe you put your face on the “Mona Lisa”, or position yourself floating through “Starry Night”, or perhaps you place yourself in the costumes on display in the “Dance We Must” exhibit in WCMA. 
+Maybe you put your face on the *Mona Lisa*, or position yourself floating through *Starry Night*, or perhaps you place yourself in the costumes on display in the *Dance We Must* exhibit in WCMA. 
 
 !["Dance We Must" Costume](/img/danceCostume.jpg)<sup>2</sup>
 
