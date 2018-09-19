@@ -34,7 +34,7 @@ While this design could help preserve the experience of visitors seeking to enga
 
 ##### Citations
 
-<sup>1</sup>(American), Anonymous. “View of Williams College: Griffin Hall Looking toward West College.” Collection – Williams College Museum of Art, egallery.williams.edu/objects/9525/view-of-williams-college-griffin-hall-looking-toward-west-c?ctx=ed465986-4ca9-405c-8a4f-fe121459b049&idx=24.
+<sup>1</sup>Anonymous. “View of Williams College: Griffin Hall Looking toward West College.” Collection – Williams College Museum of Art, egallery.williams.edu/objects/9525/view-of-williams-college-griffin-hall-looking-toward-west-c?ctx=ed465986-4ca9-405c-8a4f-fe121459b049&idx=24.
 
 <sup>2</sup>Kourlas, Gia. “The Costumes in Modern Dance's Attic.” The New York Times, The New York Times, 19 June 2018,     
   www.nytimes.com/2018/06/19/arts/dance/the-costumes-in-modern-dances-attic.html.
