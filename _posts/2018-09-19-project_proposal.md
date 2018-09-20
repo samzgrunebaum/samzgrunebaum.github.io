@@ -22,9 +22,13 @@ However, this incites a new problem where people vie to get their chance to pose
 
 I propose a program where visitors could pull up a preexisting image of the piece of art (presumably from the museum’s database), and superimpose an image of themselves into the work of art. Not only would this help to solve the problem of keeping a view of the work unobstructed, but it would be a fun and exciting new way to engage with art. 
 
+![*Vermont Landscape*](/img/vermont.jpg)
+
+*Vermont Landscape* <sup>2</sup>
+
 Maybe you put your face on WCMA's *Portrait of Rembrandt Peale*, or position yourself floating through *Vermont Landscape*, or perhaps you place yourself in the costumes on display in the *Dance We Must* exhibit at WCMA. 
 
-!["Dance We Must" Costume](/img/danceCostume.jpg)<sup>2</sup>
+![*Dance We Must* Costume](/img/danceCostume.jpg) <sup>3</sup>
 
 Whatever the case may be, this design would provide an interesting alternative to waiting your turn to take a photo in front of the art, plus it would be fun for all ages. I could envision this design particularly taking hold amongst young kids for whom it would offer a way to keep them entertained while also helping them engage with the art. While older visitors may use the program to create artistic souveniers of their time in the museum, children would have fun wandering the exhibits looking for interesting pieces to insert themselves into, and then inventing creative ways to do so. 
 
@@ -36,5 +40,7 @@ While this design could help preserve the experience of visitors seeking to enga
 
 <sup>1</sup>Anonymous. “View of Williams College: Griffin Hall Looking toward West College.” Collection – Williams College Museum of Art, egallery.williams.edu/objects/9525/view-of-williams-college-griffin-hall-looking-toward-west-c?ctx=ed465986-4ca9-405c-8a4f-fe121459b049&idx=24.
 
-<sup>2</sup>Kourlas, Gia. “The Costumes in Modern Dance's Attic.” The New York Times, The New York Times, 19 June 2018,     
+<sup>2</sup>Schnakenberg, Henry Ernest. "Vermont Landscape." Collection - Williams College Museum of Art, http://egallery.williams.edu/objects/10229/vermont-landscape?ctx=c7003965-92a3-431a-94fe-12f71a3b97da&idx=12.
+
+<sup>3</sup>Kourlas, Gia. “The Costumes in Modern Dance's Attic.” The New York Times, The New York Times, 19 June 2018,     
   www.nytimes.com/2018/06/19/arts/dance/the-costumes-in-modern-dances-attic.html.
