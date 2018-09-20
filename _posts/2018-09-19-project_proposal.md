@@ -36,7 +36,7 @@ Whatever the case may be, this design would provide an interesting alternative t
 
 While this design could help preserve the experience of visitors seeking to engage with the pieces of art uninterrupted, it has the potential to draw attention away from the actual art on the walls in a distracting and detrimental way. The question stands then, of how to create a balance such that the museum experience is preserved and enriched without distracting visitors too far away from the actual art. Perhaps the answer is to render the program immobile, such that you can only use it in designated non-exhibit areas. Or maybe, to limit the number of pieces you can superimpose into. Whatever the answer, this design has the potential to revolutionize the means through which visitors engage with the museum's collection.
 
-##### Citations
+#### Citations
 
 <sup>1</sup>Anonymous. “View of Williams College: Griffin Hall Looking toward West College.” Collection – Williams College Museum of Art, egallery.williams.edu/objects/9525/view-of-williams-college-griffin-hall-looking-toward-west-c?ctx=ed465986-4ca9-405c-8a4f-fe121459b049&idx=24.
 
