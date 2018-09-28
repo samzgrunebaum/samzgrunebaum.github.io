@@ -5,7 +5,7 @@ subtitle: Group Project Proposal
 image: /img/SWCMA Logo.png
 ---
 
-(A note on the logo, visible in the page avatar: The work depicted in our logo will change week to week to showcase different objects from the WCMA collection and demonstrate its breadth and diversity of styles. SearchWCMA Logo image sources: magnifying glass Clip Art comes from the Microsoft Word 2011 Clip Art Browser, the photograph is Joel Sternfeld’s “9/11 Along West Side Highway” (2001), which can be found at this link: <http://egallery.williams.edu/objects/17896/911-along-west-side-highway?ctx=2ceb3b72-27b2-4216-bd79-cc5bb8ad4dc1&idx=11>)
+(A note on the logo, visible in the page avatar: The work depicted in our logo will change week to week to showcase different objects from the WCMA collection and demonstrate its breadth and diversity of styles. SWCMA Logo image sources: magnifying glass Clip Art comes from the Microsoft Word 2011 Clip Art Browser, the photograph is Joel Sternfeld’s “9/11 Along West Side Highway” (2001), which can be found at this link: <http://egallery.williams.edu/objects/17896/911-along-west-side-highway?ctx=2ceb3b72-27b2-4216-bd79-cc5bb8ad4dc1&idx=11>)
 
 ![WCMA](/img/20161021-131955-20160123__p_wcmalandhunt1jpg.jpeg)
 
