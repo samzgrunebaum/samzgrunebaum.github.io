@@ -27,8 +27,8 @@ subtitle: Commitment to the Team
 * We will be accountable to take on an even amount work
 
 **Team Plan:**
-* Sam -- Logo
-* Ryan -- Contextual Inquiry PLan
+* Sam -- Logo and Contextual Inquiry Plan
+* Ryan -- Contextual Inquiry Plan
 * Casey -- Project Proposal 
 
 **Meeting Management:**
