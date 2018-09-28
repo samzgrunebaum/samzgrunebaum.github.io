@@ -1,3 +1,8 @@
+---
+layout: post
+title: Contextual Inquiry Plan
+---
+
 Background
 
 Our design functions as an access point for visitors into WCMA’s exhibits with the goal of optimizing not only the visitor’s overall experience, but also adapt, on a step-by-step basis, to the preferences and habits of its users.  Therefore, our design incorporates the experiences of avid museum visitors who know the exact pieces, artists, or time period of art they want to view with those who have no previous knowledge of what sits in front of them or in the depths of the collection.  As our design is effectively a personal curator tool, making a large stakeholder in its use the actual curators, who curate exhibits with specific ideas and themes in mind.  
