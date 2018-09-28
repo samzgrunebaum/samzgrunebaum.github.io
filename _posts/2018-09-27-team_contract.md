@@ -8,12 +8,12 @@ subtitle: Commitment to the Team
 Beginnings of weeks -- after 7 for the most part, are generally best to meet
 
 **Guiding Principles:**
-Respect each other and each others ideas
-Communication is key -- keep all members of the team in the loop
-Build each other up -- don’t tear each other down
-Teamwork makes the dream work
-Be willing to give and receive constructive criticism
-Fail often to succeed sooner
+-Respect each other and each others ideas
+-Communication is key -- keep all members of the team in the loop
+-Build each other up -- don’t tear each other down
+-Teamwork makes the dream work
+-Be willing to give and receive constructive criticism
+-Fail often to succeed sooner
 
 **Focus on Purpose:**
 Purpose: to help museum visitors find pieces of art both in the museum and its digital collection that are well tailored to their preferences
