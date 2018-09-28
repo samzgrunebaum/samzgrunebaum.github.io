@@ -1,10 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Who I am
+title: About Us
+subtitle: Who We Are
 ---
 
-My name is Casey Pelz. I am a Senior Computer Science and Sociology double major from Seattle, WA.
+Team Members:
 
+Casey Pelz '19
 
+Ryan Schmidt '20
+
+Samuel Grunebaum '19
 
