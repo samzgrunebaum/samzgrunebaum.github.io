@@ -1,3 +1,8 @@
+---
+layout: post
+title: Team Contract
+---
+
 Preliminary Information:
 Beginnings of weeks -- after 7 for the most part, are generally best to meet
 
