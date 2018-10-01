@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Picture Yourself in Art
-subtitle: Project Proposal
+subtitle: Personal Project Proposal
 ---
 
 ### The Scenario 
