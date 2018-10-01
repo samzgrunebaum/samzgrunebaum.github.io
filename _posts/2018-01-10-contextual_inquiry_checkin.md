@@ -1,3 +1,9 @@
+---
+layout: post
+title: Contextual Inquiry Check-In
+subtitle: Round One
+---
+
 NS is a senior Art History major at Williams College who spent a summer working at WCMA and now continues to work part time for them. She is an interesting subject because she represents both a visitor and stakeholder of the museum — she is familiar with museum, but still experiences it as a visitor. We met in the WCMA lobby, and I asked her to just wander the museum exactly as she normally would. At first it was difficult to convey to her that it was not a formal interview, but rather a type of extended observation; she kept looking for a prompt to answer a question, when we hadn’t made it far enough for me to even have any observations to question. However, I was able to explain the format and eventually we fell into a rhythm of wandering and chatting occasionally.
 
 I was very interested in how she would move through the museum and interact with the art and accompanying wall texts. Our first stop was the exhibit immediately to the right of the front door, where she explained to me that she was drawn to it because of its proximity and the intrigue of the menthol scent and music accompaniment. We also used this space to discuss the difference between a work of this nature and a gallery of paintings. Where the paintings suggest a natural, sequential progression, sculptures require a departure from an implied path in order to walk around and view them completely. Our walk continued around the first floor, then up to the second floor where we started with the Dance We Must exhibit, which again brought me to ask about her chosen path. The exhibit is laid out somewhat irregularly due to the free-standing costumes in the center of the room. She explained to me that in an exhibit of this nature, she (and as she notes, other visitors) tend to create their own path where they “bounce around” from central sculptural pieces to the paintings and photographs on the walls. 
