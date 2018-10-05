@@ -4,14 +4,14 @@ title: Contextual Inquiry Review
 ---
 
 
-# **->Summary of Key Findings<-**
+# **Summary of Key Findings**
 
 
 We performed three contextual inquiries that incorporated the perspectives of a stakeholder in WCMA, a student who works at WCMA and therefore has a considerable amount of knowledge on WCMA’s collection, and a first year student who had never visited the museum.  The contextual inquiries took aim at dissecting how a museum is set up to engage with its visitors and operate as a physical space versus how museum visitors interact with, navigate, and experience the museum.  Each visitor, employee, or mix of the two brings their own perspective not only to WCMA as an institution, but also to the art within its walls.  Our contextual inquiries gave insight into the similarities and differences of these users, showing that optimizing the experience for visitors starts with blending all three parties’ perspectives.  Some interviewees focused more heavily on the artwork, some on the physical space, and others on the flow from piece to piece and exhibit to exhibit.  To optimize a visitor’s experience, we will focus in on the factors that make WCMA unique as a museum and how personal preferences lend themselves to overall experience, yielding a design that best serves each user as well as WCMA collectively. 
 
 
 
--># **Design Research Goals, Users, and Stakeholders**<-
+# **Design Research Goals, Users, and Stakeholders**
 
 
 For our first three contextual inquiries, we chose three different Williams community members, each with varying levels of familiarity with the museum. RL is a student that is not at all familiar with WCMA, but has worked at a museum before. NS is a student who has worked at WCMA and is very familiar with it as a result. NP is a full-time staff member at WCMA who is both intimately familiar with the art and the museum’s visitors. While these three don’t necessarily represent our typical user, they do help us to better understand the problem our design is attempting to solve. We anticipate our typical user will be a visitor who may or may not be familiar with WCMA’s collection, but is likely not an employee of the museum.
@@ -24,7 +24,7 @@ NP is a stakeholder in WCMA with a vested interest in visitor engagement. Her jo
 
 
 
--># **Results and Themes**<-
+# **Results and Themes**
 
 ![Affinity Diagram](/img/affinityDiagram.png)
 
@@ -36,7 +36,7 @@ The other themes we observed in our inquiries related to visitor interaction wit
 
 
 
--># **Task Analysis**<-
+# **Task Analysis**
 
 
 #### *Who is going to use the design?*
