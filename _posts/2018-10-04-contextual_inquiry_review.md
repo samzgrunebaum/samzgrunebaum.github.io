@@ -57,7 +57,7 @@ The other themes we observed in our inquiries related to visitor interaction wit
 
   * The tasks are performed either in WCMA or at users convenience outside of the museum before their visit. Some of the tasks, such as taking the preferences quiz, or exploring the virtual collection could occur separately. However, the main task of guiding users around the museum, and tracking their preferences as they go, will occur within WCMA.
 
-### *What is the relationship between the person and data?*
+#### *What is the relationship between the person and data?*
 
   * The person should relate to data as though they were reading a map or guidebook meant to inspire and personalize a new or repeated experience – that is, the person will use the design to help them navigate not only WCMA’s hallways but also the broader collection as a whole, including objects not on the walls. Stakeholders will find that data provides meaningful insights into the interests, behaviors, movement, curiosity, and engagement of museum visitors.
 
