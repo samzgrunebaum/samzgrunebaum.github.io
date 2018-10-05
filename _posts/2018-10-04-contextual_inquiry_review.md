@@ -4,7 +4,7 @@ title: Contextual Inquiry Review
 ---
 
 
--># **Summary of Key Findings**<-
+# **->Summary of Key Findings<-**
 
 
 We performed three contextual inquiries that incorporated the perspectives of a stakeholder in WCMA, a student who works at WCMA and therefore has a considerable amount of knowledge on WCMA’s collection, and a first year student who had never visited the museum.  The contextual inquiries took aim at dissecting how a museum is set up to engage with its visitors and operate as a physical space versus how museum visitors interact with, navigate, and experience the museum.  Each visitor, employee, or mix of the two brings their own perspective not only to WCMA as an institution, but also to the art within its walls.  Our contextual inquiries gave insight into the similarities and differences of these users, showing that optimizing the experience for visitors starts with blending all three parties’ perspectives.  Some interviewees focused more heavily on the artwork, some on the physical space, and others on the flow from piece to piece and exhibit to exhibit.  To optimize a visitor’s experience, we will focus in on the factors that make WCMA unique as a museum and how personal preferences lend themselves to overall experience, yielding a design that best serves each user as well as WCMA collectively. 
