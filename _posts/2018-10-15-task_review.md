@@ -5,7 +5,7 @@ subtitle: Six SWCMA Tasks
 ---
 
 ### Discovering works that otherwise would have been overlooked 
-#### Easy - New 
+#### *Easy - New* 
 
 Ben doesn’t go to museums often and feels very out of touch with the world of art appreciation. When he goes to a museum, he is often drawn most to the famous pieces everyone is crowding around, or the more unconventional pieces, like WCMA’s “Our Love is Bigger than and AIDS Quilt” that have extra-visual elements that draw him in. He thinks he may like some of the other pieces in the museum, but he just doesn’t know how to find the ones he may really like, and often gets tired and loses motivation before completing a tour of the every exhibit. He’s tried asking museum staff where he could find pieces he’s likely to enjoy; however, he has a lot of trouble describing to them what these pieces may look like, so they generally can’t offer very helpful advice. 
 
