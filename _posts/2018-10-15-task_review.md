@@ -16,9 +16,11 @@ Greg loves visiting museums and finding new objects to think about and engage wi
 
 ### Learning about the curator’s perspective and vision for the exhibit 
 #### *Easy - Existing* 
+Olivia is an art buff and knows every piece of art by its time period, medium, and artist before ever stepping foot in the museum.  Her curiosity stems from how the art is spatially combined, setup, and displayed.  She wants to know how light, sound, and even air temperature are manipulated for each piece and various exhibits as a whole.  In short, it has always been Olivia’s dream to be a curator, but weekend visits to WCMA will have to do.  She knows that pieces, museums, and collections are sometimes put together to be interpreted be each person differently and have no set meaning, but nonetheless, Olivia is interested in how professionals in the field have viewed, envisioned, and curated the art.  She wants to gain a more in depth understanding and appreciation for each museum she visits.  Unfortunately, most curators aren’t on site for chats or tours.  Even at places like WCMA, where the combination of academics and art is part of the mission, it’s not always possible for Olivia to satisfy her intellectual curiosity in a single daily visit.
 
-### Personalized navigation through the museum 
+### Continued engagement with the users favorite or most memorable pieces 
 #### *Moderate - New*
+Cal is someone who enjoys visiting museums, but he doesn’t get to do it all that often.  Being in his second year at Williams and hearing so much about WCMA from various friends, he decides to go one afternoon.  After looking through a particular exhibit, Cal realizes how applicable a series of photographs are to one of his current classes.  He knows he has to right a research paper at the end of the semester that incorporates non-text based sources.  He reads the description of the photos and tells himself he’ll remember in a few weeks.  As the paper due date approaches, Cal returns to WCMA with a notebook to do some brainstorming for a rough draft only to find that the exhibit has been switched and the pictures now replaced by a series of sculptures that don’t relate at all to his work.  He doesn’t have the time to sift through the online collection and can’t remember which exact photos he was looking at to ask the museum staff.  He wishes he had somehow “bookmarked” those pieces for himself and was able to retrieve them now. 
 
 ### Learning more about the collection as a whole
 #### *Moderate - Existing* 
