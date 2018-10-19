@@ -53,3 +53,23 @@ In the Reading Room there would be a kiosk that allowed visitors to explore the 
 ![Engagement](/img/souvenir.jpg)
 At the end of a visit to WCMA, a user could enter their ID into the kiosk by the door to see the pieces they liked during their visit. They can email digital images of these pieces (sourced from WCMA’s digital collection) to themselves and print out a high quality physical copy of one of the pieces to take home as a souvenir. Being able to print out an image could be a incentive for visitors to use our design in the first place.
 
+
+### Phone App Design
+This design would come in the form of an app on smartphones.  Visitors could download the app at any time and create a short profile on themselves.  At the very least it would create an account with their name.  The design would serve four main purposes.  Broadly these are wayfinding, discovering and connecting interests, learning from the eyes of a curator, and bookmarking pieces for later use.  The app would show users where to begin their museum experience by getting input in the form of user interests or suggesting pieces based on where a user has spent the most time.  It would then give them the ability scan pieces and learn more, but importantly bookmark them.  If the curation of exams is of interest, then users can opt in and out of following a predetermined path with interesting facts and tid bits discoverable along the way.  At any point, users can see which exhibits or pieces they have missed (if any) and how to navigate to them if they so desire.  A final feature of the app is letting users see pieces of interest that are not on display, but are still in the WCMA collection by searching for key tags.
+
+#### Task: Continued Engagement with users favorite or most memorable pieces
+![Agency](/img/appbookmark.jpg)
+Upon visiting every piece, the user would be able to scan it, bringing up a digital copy and its information.  There would then be the option for users to add it to their “Personal Collection” that houses all of the art they find interesting, memorable, or just want easy access to in the future.
+
+#### Task: Learning about the curator’s perspective and vision for the exhibit
+![Agency](/img/appcurator.jpg)
+The app would have a “Be the Curator” option where individuals could opt to experience an exhibit in the shoes of the curator.  In this way visitors could walk the path(s) envisioned by the curator and learn the intricacies of the exhibit.  It would be easy to pause or turn off if users so desired, and would at its most basic level function as a wayfinding guide, only giving more information on the user’s request.
+
+#### Task: Conveying personal artistic preference
+![Agency](/img/apppreference.jpg)
+This search options allows users to narrow down by any subject matter imaginable.  The pieces of art would all be coded with tags, and then upon a search of one or more tags, they could learn more about the art and visit it in person if it is on display or virtually on their phone if it is not on display but in the collection.
+
+#### Task: Discovering works that otherwise would have been overlooked
+![Agency](/img/appdiscover.jpg)
+In the app there would be a section that tracks your progress through the museum.  If by chance you skipped an exhibit or passed by a piece of art quickly, you would be able to go back and see all the art you’ve “missed” and/or see which art has been suggested for you that you might have missed.
+
