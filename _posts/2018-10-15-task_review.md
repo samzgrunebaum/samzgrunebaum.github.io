@@ -35,4 +35,4 @@ Leora does the same thing every time she goes to WCMA to see the latest exhibiti
 # Project Design Check-In
 
 ### Kiosk Design
-
+![](/img/agency.png)
