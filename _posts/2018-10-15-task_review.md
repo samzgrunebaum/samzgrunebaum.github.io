@@ -35,4 +35,21 @@ Leora does the same thing every time she goes to WCMA to see the latest exhibiti
 # Project Design Check-In
 
 ### Kiosk Design
-![](/img/agency.png)
+This design would feature a series of kiosks throughout the museum. Each visitor would create a profile of sorts at the first kiosk right by the door, that would be associated with and ID or a badge that would allow them to access their personal profiles at each successive kiosk. The kiosks would allow visitors to interact with the design throughout their visit without having to download an app that could prove distracting. The kiosks would track visitors preferences, offer personalized navigation, introduce the entirety of WCMA’s collection, provide the option to bring home reminders of the pieces they liked, and much more. Additionally, visitors’ profiles would always be saved, so they can pick up where they left off each visit and continue to specify their preferences, allowing the kiosks to offer more specific and differentiated information. 
+
+##### Agency in one’s museum experience
+![Agency](/img/routeMap.jpg)
+At the kiosk by the front door, visitors could see a summary of the pieces on display that day. After selecting the ones they’re most interested in seeing, the kiosk would display a suggested route through the museum to see those pieces. The route could be printed out so the user could carry it around with them.
+
+##### Conveying personal artistic preferences
+![Preferences](/img/preferences.jpg)
+Throughout the museum would be kiosks where visitors could indicate whether they liked a piece or not. If they did like it, the kiosk would display a page of similar pieces both on display currently and in the digital collection. These preferences would be stored throughout the visit and summarized at the end.
+
+##### Learning more about the collection as a whole
+![Collection](/img/publicArt.png)
+In the Reading Room there would be a kiosk that allowed visitors to explore the entire WCMA collection, not on display. Features would include a sorted collection of the digital pieces, information about the architecture of the building itself, and printable maps to public art.
+
+##### Continued engagement with the users favorite or most memorable pieces
+![Engagement](/img/souvenir.jpg)
+At the end of a visit to WCMA, a user could enter their ID into the kiosk by the door to see the pieces they liked during their visit. They can email digital images of these pieces (sourced from WCMA’s digital collection) to themselves and print out a high quality physical copy of one of the pieces to take home as a souvenir. Being able to print out an image could be a incentive for visitors to use our design in the first place.
+
