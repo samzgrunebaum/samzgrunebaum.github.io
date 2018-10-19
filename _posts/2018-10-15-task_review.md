@@ -31,3 +31,8 @@ Sarah is in town to check out the Williamstown museums. She first visits the Cla
 #### *Hard - Existing* 
 
 Leora does the same thing every time she goes to WCMA to see the latest exhibition – she goes upstairs, walks through each gallery with a meandering, listless gait and then goes downstairs to check out the Object Lab and any special works on display. This time, she thinks, she will take more initiative – she will have an active visit and her experience will be defined by her and her unique interests. She walks through the door and is instantly befuddled by the pink column with arrows pointing five different ways – should she go upstairs or downstairs, left or right? She doesn't know what is currently on display and feels at a loss. Resigned, she goes upstairs and begins looking at every work, one by one, and feels robotic. Leora wishes there were some way to plan her experience beforehand so that she could more dynamically find, engage with, and remember works that are meaningful to her. She just wants to give herself a unique experience with art without falling into the same old patterns.
+
+# Project Design Check-In
+
+### Kiosk Design
+
