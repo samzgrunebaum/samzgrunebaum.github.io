@@ -34,25 +34,6 @@ Leora does the same thing every time she goes to WCMA to see the latest exhibiti
 
 # Project Design Check-In
 
-### Web App Design
-This design is a web application for WCMA’s website that focuses on helping users plan their visit to the museum around objects in the collection (both on display and otherwise). First, a user will be able to convey and organize their artistic preferences by building a profile based on quiz-like prompts designed to create a holistic image of an individual’s tastes. Next, the app will generate an interpretive map that highlights unique items on display in current exhibitions and offers customizability based on a variety of possible factors (users can choose which of their preferences they want to give priority in the generated path). Third, users will be able to click whether they found a piece “Compelling” or “Eh” and will be invited to peruse a “Similar Pieces” section for each of their favorite works that showcases visually or historically similar works in WCMA’s online collection. Finally, any piece that the user views through the app as well as the path itself can be saved to the user’s account, shared with the user’s friends or to their personal social media/email, or printed at WCMA where a physical copy of the map will be awaiting the visitor’s arrival.
-
-#### Conveying personal artistic preferences
-![Personal info](/img/1.png)
-Whether on a desktop or mobile device, a user can follow quiz-like prompts and fill in textboxes to build a personal profile. Prompts will be a mixture of open-ended spaces to fill in things like favorite colors, artists, time periods, types of works, and styles but will also include humorous and seemingly unrelated questions like "What is your spirit animal?", "Coffee or tea?", or things of this nature. The web app will use this data to generate paths for the user that include works that they are likely to enjoy or find interesting.
-
-#### Discovering works that otherwise may have been overlooked
-![Find your way](/img/2.png)
-A user will be told which turns to make at the museum to find different works on display. When they arrive at a work on their path, they will be prompted to indicate whether they enjoy the piece or not. Based on their reaction, the path will adjust to suggest other works on display and then direct the visitor to that work.
-
-#### Learning more about the collection as a whole
-![Discover more art](/img/3.png)
-Throughout the path, the user will have the option to look at a "Similar Pieces" section for each work on their path (or in the entire collection if they wish to peruse through all of the works). This section will include pieces on and off the walls and will have the option to indicate whether a user likes or dislikes each piece. Their responses will help the app understand better which pieces to suggest to them in the future.
-
-#### Continued engagement with users’ favorite or most memorable pieces
-![Remember your experience](/img/4.png)
-For each work and for each path, the user can choose to save and/or share their path or work. The paths will be organized by the days on which they were generated and the works by either artist, date, or title. Buttons for sharing to social media, email, or text will allow users to show their paths and favorite pieces to others while the save option will allow the user to download an image of a specific work and its placard or an image of their path. They will also have the option to print their path at WCMA so that it will be waiting for them when they arrive.
-
 ### Kiosk Design
 This design would feature a series of kiosks throughout the museum. Each visitor would create a profile of sorts at the first kiosk right by the door, that would be associated with and ID or a badge that would allow them to access their personal profiles at each successive kiosk. The kiosks would allow visitors to interact with the design throughout their visit without having to download an app that could prove distracting. The kiosks would track visitors preferences, offer personalized navigation, introduce the entirety of WCMA’s collection, provide the option to bring home reminders of the pieces they liked, and much more. Additionally, visitors’ profiles would always be saved, so they can pick up where they left off each visit and continue to specify their preferences, allowing the kiosks to offer more specific and differentiated information. 
 
@@ -92,3 +73,21 @@ This search options allows users to narrow down by any subject matter imaginable
 ![Agency](/img/appdiscover.jpg)
 In the app there would be a section that tracks your progress through the museum.  If by chance you skipped an exhibit or passed by a piece of art quickly, you would be able to go back and see all the art you’ve “missed” and/or see which art has been suggested for you that you might have missed.
 
+### Web App Design
+This design is a web application for WCMA’s website that focuses on helping users plan their visit to the museum around objects in the collection (both on display and otherwise). First, a user will be able to convey and organize their artistic preferences by building a profile based on quiz-like prompts designed to create a holistic image of an individual’s tastes. Next, the app will generate an interpretive map that highlights unique items on display in current exhibitions and offers customizability based on a variety of possible factors (users can choose which of their preferences they want to give priority in the generated path). Third, users will be able to click whether they found a piece “Compelling” or “Eh” and will be invited to peruse a “Similar Pieces” section for each of their favorite works that showcases visually or historically similar works in WCMA’s online collection. Finally, any piece that the user views through the app as well as the path itself can be saved to the user’s account, shared with the user’s friends or to their personal social media/email, or printed at WCMA where a physical copy of the map will be awaiting the visitor’s arrival.
+
+#### Conveying personal artistic preferences
+![Personal info](/img/1.png)
+Whether on a desktop or mobile device, a user can follow quiz-like prompts and fill in textboxes to build a personal profile. Prompts will be a mixture of open-ended spaces to fill in things like favorite colors, artists, time periods, types of works, and styles but will also include humorous and seemingly unrelated questions like "What is your spirit animal?", "Coffee or tea?", or things of this nature. The web app will use this data to generate paths for the user that include works that they are likely to enjoy or find interesting.
+
+#### Discovering works that otherwise may have been overlooked
+![Find your way](/img/2.png)
+A user will be told which turns to make at the museum to find different works on display. When they arrive at a work on their path, they will be prompted to indicate whether they enjoy the piece or not. Based on their reaction, the path will adjust to suggest other works on display and then direct the visitor to that work.
+
+#### Learning more about the collection as a whole
+![Discover more art](/img/3.png)
+Throughout the path, the user will have the option to look at a "Similar Pieces" section for each work on their path (or in the entire collection if they wish to peruse through all of the works). This section will include pieces on and off the walls and will have the option to indicate whether a user likes or dislikes each piece. Their responses will help the app understand better which pieces to suggest to them in the future.
+
+#### Continued engagement with users’ favorite or most memorable pieces
+![Remember your experience](/img/4.png)
+For each work and for each path, the user can choose to save and/or share their path or work. The paths will be organized by the days on which they were generated and the works by either artist, date, or title. Buttons for sharing to social media, email, or text will allow users to show their paths and favorite pieces to others while the save option will allow the user to download an image of a specific work and its placard or an image of their path. They will also have the option to print their path at WCMA so that it will be waiting for them when they arrive.
