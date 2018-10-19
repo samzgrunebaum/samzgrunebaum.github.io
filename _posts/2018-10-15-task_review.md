@@ -34,6 +34,17 @@ Leora does the same thing every time she goes to WCMA to see the latest exhibiti
 
 # Project Design Check-In
 
+### Web App Design
+This design is a web application for WCMA’s website that focuses on helping users plan their visit to the museum around objects in the collection (both on display and otherwise). First, a user will be able to convey and organize their artistic preferences by building a profile based on quiz-like prompts designed to create a holistic image of an individual’s tastes. Next, the app will generate an interpretive map that highlights unique items on display in current exhibitions and offers customizability based on a variety of possible factors (users can choose which of their preferences they want to give priority in the generated path). Third, users will be able to click whether they found a piece “Compelling” or “Eh” and will be invited to peruse a “Similar Pieces” section for each of their favorite works that showcases visually or historically similar works in WCMA’s online collection. Finally, any piece that the user views through the app as well as the path itself can be saved to the user’s account, shared with the user’s friends or to their personal social media/email, or printed at WCMA where a physical copy of the map will be awaiting the visitor’s arrival.
+
+#### Conveying personal artistic preferences
+
+#### Discovering works that otherwise may have been overlooked
+
+#### Learning more about the collection as a whole
+
+#### Continued engagement with users’ favorite or most memorable pieces
+
 ### Kiosk Design
 This design would feature a series of kiosks throughout the museum. Each visitor would create a profile of sorts at the first kiosk right by the door, that would be associated with and ID or a badge that would allow them to access their personal profiles at each successive kiosk. The kiosks would allow visitors to interact with the design throughout their visit without having to download an app that could prove distracting. The kiosks would track visitors preferences, offer personalized navigation, introduce the entirety of WCMA’s collection, provide the option to bring home reminders of the pieces they liked, and much more. Additionally, visitors’ profiles would always be saved, so they can pick up where they left off each visit and continue to specify their preferences, allowing the kiosks to offer more specific and differentiated information. 
 
