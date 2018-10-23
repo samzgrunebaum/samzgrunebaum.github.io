@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Design Review
+title: Project Design Check-In
 subtitle: Storyboarding
 ---
 
