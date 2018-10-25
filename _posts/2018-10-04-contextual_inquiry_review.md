@@ -40,43 +40,51 @@ The other themes we observed in our inquiries related to visitor interaction wit
 
 
 #### *Who is going to use the design?*
-  * Our design is available and accessible to any and all users of a museum, including all age ranges and persons with varying degrees of   museum or art expertise.  It is aimed at individuals currently planning a trip to a museum as well as for visitors once they arrive to the museum.
+Our design is available and accessible to any and all users of a museum, including all age ranges and persons with varying degrees of museum or art expertise. While owning a smartphone will enhance the experience, it is certainly not necessary.
   
 #### *What tasks do they now perform?*
-  * Currently, our users visit museums. They walk in the front doors, choose a direction to move in, then begin their traversal of the museum. As they move through the exhibits, they wander around the rooms, looking at the art, pausing longer at those pieces that pique their interest. Given that WCMA is small, our users generally leave after they’ve seen the whole thing, and notably don’t explore WCMA’s virtual collection or visit its public art with any sort of intentionality.
+Currently, our users visit museums. They walk in the front doors, choose a direction to move in, then begin their traversal of the museum. As they move through the exhibits, they wander around the rooms, looking at the art, pausing longer at those pieces that pique their interest. Given that WCMA is small, our users generally leave after they’ve seen the whole thing, and notably don’t explore WCMA’s virtual collection or gain insight into the curators’ intentions.
 
 #### *What tasks are desired?*
 
-  * Ideally, the user would have a plan for their visit to the museum, ensuring they visited every piece they would like. The task then, would be to create a route that brought the visitor to all the pieces they were likely to enjoy. This includes, identifying the user’s preferences, directing them to pieces pieces that match said preferences, and introducing them to WCMA’s digital collection, so that they are able to enjoy art that matches their tastes, regardless of whether it is currently hanging on the wall.
+The desired tasks are: 
+		* Discovering works that otherwise would have been overlooked
+		* Conveying personal artistic preferences so the product can tailor itself to each user specifically
+		* Learning about the curator’s perspective and vision for the exhibit
+		* Continued engagement with the users favorite or most memorable pieces
+		* Learning more about the collection as a whole, most notably introduction to the virtual collection
+		* Gaining agency in one’s museum experience
+
+The general task then, would be to create a route that brought the visitor to all the pieces they were likely to enjoy. This includes, identifying the user’s preferences, directing them to pieces that match said preferences, and introducing them to the curators’ perspective and WCMA’s digital collection.
 
 #### *How are the tasks learned?*
 
-  * The tasks are learned through guidance built into the product. As the user engages with the product, they will be continually prompted what to do, such that they don’t have to go out of their way to learn how to perform the tasks, and ideally might not even know they are learning. Additionally, there has to be a means for the user to learn that the product is available to them. This could be achieved through in museum advertisement, as well as publicity on WCMA’s website and social media platforms.
+The competence to achieve the existing tasks is innate within each visitor, they simply need to be given the tools to do so, which our product will do. The new tasks are learned through guidance built into the product. As the user engages with the product, they will be continually prompted what to do, such that they don’t have to go out of their way to learn how to perform the tasks, and ideally might not even know they are learning. Additionally, there has to be a means for the user to learn that the product is available to them. This could be achieved through in museum advertisement, as well as publicity on WCMA’s website and social media platforms.
 
 #### *Where are the tasks performed?*
 
-  * The tasks are performed either in WCMA or at users convenience outside of the museum before their visit. Some of the tasks, such as taking the preferences quiz, or exploring the virtual collection could occur separately. However, the main task of guiding users around the museum, and tracking their preferences as they go, will occur within WCMA.
+All of the tasks will occur at various points throughout WCMA. Primarily, these locations will be kiosks in areas where there is not other art on the walls; however, there is also some functionality to be performed on a mobile device in the exhibits.
 
 #### *What is the relationship between the person and data?*
 
-  * The person should relate to data as though they were reading a map or guidebook meant to inspire and personalize a new or repeated experience – that is, the person will use the design to help them navigate not only WCMA’s hallways but also the broader collection as a whole, including objects not on the walls. Stakeholders will find that data provides meaningful insights into the interests, behaviors, movement, curiosity, and engagement of museum visitors.
+The person should relate to data as though they were reading a map or guidebook meant to inspire and personalize a new or repeated experience – that is, the person will use the design to help them navigate not only WCMA’s hallways but also the broader collection as a whole, including objects not on the walls. Stakeholders will find that data provides meaningful insights into the interests, behaviors, movement, curiosity, and engagement of museum visitors.
 
 #### *What other tools does the person have?*
 
-  * The person’s other tools include the publicly available WCMA Collection API, which represents a virtual cataloguing of almost the entirety of WCMA’s collection and includes a search function. In lieu of a museum map, visitors might notice a wall by the entrance with arrows pointing to the different parts of the museum (offices, Object Lab, restrooms, exhibition galleries, etc.). Additionally, the person may approach any staff members at WCMA, including the host at the front desk, to ask any questions they may have or simply to express their interest or curiosity in the museum and its collection.
+The person’s other tools include the publicly available WCMA Collection API, which represents a virtual cataloguing of almost the entirety of WCMA’s collection and includes a search function. In lieu of a museum map, visitors might notice a wall by the entrance with arrows pointing to the different parts of the museum (offices, Object Lab, restrooms, exhibition galleries, etc.). Additionally, the person may approach any staff members at WCMA, including the host at the front desk, to ask any questions they may have or simply to express their interest or curiosity in the museum and its collection.
 
 #### *How do people communicate with each other?*
 
-  * Communication at museums occurs verbally and non-verbally – visitors communicate their feedback, curiosities, and overall engagement with objects and spaces through their interaction and movement while stakeholders communicate through iterative projects that attempt to gauge public response. In our design, people can communicate their reactions to suggested paths through WCMA and to suggested works in the collection by rating and commenting on paths or works.
+Communication at museums occurs verbally and non-verbally – visitors communicate their feedback, curiosities, and overall engagement with objects and spaces through their interaction and movement while stakeholders communicate through iterative projects that attempt to gauge public response. In our design, people can communicate their artistic preferences and share there completed routes.
 
 #### *How often are the tasks performed?*
 
-  * The tasks are performed either before arriving to the exam or throughout a users visit to the museum.  Ideally a user would complete a survey or identify the pieces they would like to view, which creates a path for them.  The second option, which can pair with the first, is for visitors to perform tasks as they go, in which case a path is built for them based off of their preferences so far in the museum.  Optimally, tasks are performed once before arrival, and then continually throughout one’s visit.
+The tasks are performed throughout a user's visit to the museum. They begin upon arrival when the user opens their app to track their location, and then continue as they move through the exhibits and stop at the kiosks in between each.
 
 #### *What are the time constraints on the tasks?*
 
-  * The time constraints for the tasks would be user driven.  Once a user entered their preferences, the design would immediately return to them a personalized path.  In this way, the user is free to explore the museum at their own leisure, taking as long or as short as they prefer.
+The time constraints for the tasks would generally be the duration of the visit to the museum. The only extent to which the time restraints of the tasks would extend beyond the visit is when the user brings home their souvenirs or chooses to save or share their route.
  
 #### *What happens when things go wrong?*
 
-  * In the case that things go wrong, for example a user doesn’t like their path, their path is taking too long, or they just wish to see new pieces, the user will have the ability to clear their preferences and start from scratch at any time.  This can either clear their pre-selected criteria and/or build a new path as they further explore the museum.
+In the case that things go wrong, the user could return to a kiosk where there would be a help page that could offer troubleshooting tips. Additionally, the user could reset their trip or simply explore the museum with only one or none of the platforms.
