@@ -47,7 +47,7 @@ Currently, our users visit museums. They walk in the front doors, choose a direc
 
 #### *What tasks are desired?*
 
-The desired tasks are: 
+The desired tasks are:   
 		* Discovering works that otherwise would have been overlooked  
 		* Conveying personal artistic preferences so the product can tailor itself to each user specifically  
 		* Learning about the curator’s perspective and vision for the exhibit  
