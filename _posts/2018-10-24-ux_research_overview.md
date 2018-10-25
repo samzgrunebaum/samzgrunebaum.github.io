@@ -5,6 +5,6 @@ subtitle:
 ---
 
 #### Team Members:
-Ryan Schmidt - Designer
-Sam Grunebaum - Designer
+Ryan Schmidt - Designer  
+Sam Grunebaum - Designer  
 Casey Pelz - Designer
