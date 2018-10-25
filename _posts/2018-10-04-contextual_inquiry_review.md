@@ -48,12 +48,12 @@ Currently, our users visit museums. They walk in the front doors, choose a direc
 #### *What tasks are desired?*
 
 The desired tasks are:   
-		*  Discovering works that otherwise would have been overlooked  
-		*  Conveying personal artistic preferences so the product can tailor itself to each user specifically  
-		*  Learning about the curator’s perspective and vision for the exhibit  
-		*  Continued engagement with the users favorite or most memorable pieces  
-		*  Learning more about the collection as a whole, most notably introduction to the virtual collection  
-		*  Gaining agency in one’s museum experience  
+	* Discovering works that otherwise would have been overlooked  
+	* Conveying personal artistic preferences so the product can tailor itself to each user specifically  
+	* Learning about the curator’s perspective and vision for the exhibit  
+	* Continued engagement with the users favorite or most memorable pieces  
+	* Learning more about the collection as a whole, most notably introduction to the virtual collection  
+	* Gaining agency in one’s museum experience  
 
 The general task then, would be to create a route that brought the visitor to all the pieces they were likely to enjoy. This includes, identifying the user’s preferences, directing them to pieces that match said preferences, and introducing them to the curators’ perspective and WCMA’s digital collection.
 
