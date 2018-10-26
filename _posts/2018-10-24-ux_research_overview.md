@@ -1,7 +1,7 @@
 ---
 layout: post
 title: User Experience Research Overview
-subtitle: SWCMA: Finding your way -- your way
+subtitle: SWCMA: Finding your way - your way
 ---
 
 ## Team Members  
