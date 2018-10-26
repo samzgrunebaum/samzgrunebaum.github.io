@@ -33,3 +33,4 @@ The new tasks will be learned through prompts in the design, while the existing 
 
 ## Proposed Design Sketches  
 ![Design Sketches](/img/threePics.png)
+[Full Design Sketch Proposals](https://cmpelz.github.io/2018-10-15-task_review/ "Task Review")
