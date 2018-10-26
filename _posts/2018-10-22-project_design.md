@@ -10,7 +10,7 @@ We have chosen a design which is a mobile app that works in conjunction with kio
 
 ### Agency in one’s museum experience
 
-![Agency](/img/agencyStory.jpg)
+![Agency](/img/agencyStoryBoard.jpg)
 
 This scenario demonstrates how the mobile app and kiosks would be used in tandem to personalize the user’s visit. Upon arriving at the museum the user would open the app so that their route would be tracked as they move through the exhibits. As they make their way through the exhibits, users will use the camera in the app to “take pictures” of pieces they liked. In between exhibits, they could stop at kiosks strategically placed in areas absent of art, where they would be able to upload their route and "likes" by scanning a QR code on their phone. From this information, the kiosk would develop more personalized suggestions of other pieces to view, which the user could choose to access. Notably, this feature is tied to the kiosk so that users are forced to only directly interact with the technology outside of exhibits so that it doesn't distract from the art. At the end of the visit, the user will stop at the final kiosk where they’ll have the option to share or save their route, as well as print a souvenir postcard of their favorite piece of the day.
 
