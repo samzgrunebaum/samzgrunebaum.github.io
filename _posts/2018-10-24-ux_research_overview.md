@@ -32,4 +32,4 @@ The new tasks will be learned through prompts in the design, while the existing 
 [Full Task Analysis Responses](https://cmpelz.github.io/2018-10-04-contextual_inquiry_review/ "Contextual Inquiry Review")
 
 ## Proposed Design Sketches  
-
+![Design Sketches](/img/threePics.png)
