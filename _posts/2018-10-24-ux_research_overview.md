@@ -40,5 +40,9 @@ The new tasks will be learned through prompts in the design, while the existing 
 
 
 ## Storyboards
+
+#### Gaining agency in one’s museum experience
 ![Agency](/img/agencyStoryBoard.jpg)
+
+#### Learning about the curator’s perspective and vision for the exhibit
 ![Curator](/img/curatorStoryBoard.jpg)
