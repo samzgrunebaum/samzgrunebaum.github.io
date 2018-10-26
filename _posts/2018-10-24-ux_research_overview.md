@@ -37,7 +37,7 @@ The new tasks will be learned through prompts in the design, while the existing 
 
 ## Written Scenarios
 
-
+[Written Scenarios and Design Choice Overview](https://cmpelz.github.io/2018-10-22-project_design/)
 
 ## Storyboards
 
