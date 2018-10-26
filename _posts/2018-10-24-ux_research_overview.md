@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SWCMA
+title: User Experience Research Overview
 subtitle: SWCMA - Finding your way, your way
 ---
 
