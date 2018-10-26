@@ -4,6 +4,8 @@ title: <center>User Experience Research Overview</center>
 subtitle: <center>SWCMA - Finding your way, Your way</center>
 ---
 
+***
+
 <center> ## Team Members</center> 
 <center>Ryan Schmidt - Designer</center> 
 <center>Sam Grunebaum - Designer</center>
