@@ -37,12 +37,12 @@ The new tasks will be learned through prompts in the design, while the existing 
 
 ## Written Scenarios
 
-[Written Scenarios and Design Choice Overview](https://cmpelz.github.io/2018-10-22-project_design/)
+
 
 ## Storyboards
 
-*Gaining agency in one’s museum experience*
+**_Gaining agency in one’s museum experience_**
 ![Agency](/img/agencyStoryBoard.jpg)
 
-*Learning about the curator’s perspective and vision for the exhibit*
+**_Learning about the curator’s perspective and vision for the exhibit_**
 ![Curator](/img/curatorStoryBoard.jpg)
