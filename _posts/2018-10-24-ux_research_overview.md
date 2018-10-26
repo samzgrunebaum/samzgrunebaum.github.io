@@ -40,4 +40,5 @@ The new tasks will be learned through prompts in the design, while the existing 
 
 
 ## Storyboards
-
+![Agency](/img/agencyStoryBoard.jpg)
+![Curator](/img/curatorStoryBoard.jpg)
