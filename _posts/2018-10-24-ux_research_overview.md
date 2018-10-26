@@ -11,7 +11,7 @@ subtitle: <center>SWCMA - Finding your way, Your way</center>
 <center>Sam Grunebaum - Designer</center>
 <center>Casey Pelz - Designer</center>
 
-[Presentation](https://docs.google.com/presentation/d/1oWiwLf0rZ-Ho3a4iExT3bXIJTJN1SH5KF1KV_SyaG-g/edit#slide=id.p)
+<center> [Presentation](https://docs.google.com/presentation/d/1oWiwLf0rZ-Ho3a4iExT3bXIJTJN1SH5KF1KV_SyaG-g/edit#slide=id.p) </center>
 
 ## <center>Problem and Solution Overview</center>
 At SWCMA, we operate under the belief that the most meaningful souvenirs one can bring home from a museum are memories of the experience, but when a visitor is confronted with meandering paths through a maze of galleries and no map to help them find the way, how can they chart their own journey through a museum in a way informed by their own tastes and interests? Our solution is a mobile platform used in conjunction with kiosks stationed throughout the museum that centers around letting users organically build routes for themselves through WCMA based on the art they love most and the academic topics about which they are passionate. The platform will allow users to save and share bespoke, interpretive route maps through the museum and to get creative with the countless shapes that these maps can take. Through building maps for themselves and others, users will be able to gain insight into WCMA’s collection and curating while building a personal profile around their artistic and academic tastes.
