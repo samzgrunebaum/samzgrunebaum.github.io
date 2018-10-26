@@ -16,7 +16,7 @@ This scenario demonstrates how the mobile app and kiosks would be used in tandem
 
 ### Learning about the curator’s perspective and vision for the exhibit
 
-![Curator](/img/curatorStory.jpg)
+![Curator](/img/curatorStoryBoard.jpg)
 
 This scenario shows the path of a user as they attempt to learn more about the curation steps and processes used in WCMA’s exhibits. It begins with a user arriving to the museum and opening the SWCMA app.  Since they want to learn about curation, they will go ahead to the marked curation kiosk (a kiosk that functions like all the others but houses the curation info as well). They will then scan and download to the SWCMA app a “Curation Guide” for any or all exhibits. If they complete the whole guide in the app, then they are rewarded with a sticker or pin from the gift shop!
 
