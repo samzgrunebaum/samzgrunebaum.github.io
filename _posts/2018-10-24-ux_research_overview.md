@@ -11,7 +11,7 @@ subtitle: <center>SWCMA - Finding your way, Your way</center>
 <center>Sam Grunebaum - Designer</center>
 <center>Casey Pelz - Designer</center>
 
-<center>[Presentation](/SWCMA.pdf)</center>
+[Presentation](/SWCMA.pdf)
 
 
 ## <center>Problem and Solution Overview</center>
