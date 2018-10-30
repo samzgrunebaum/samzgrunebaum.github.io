@@ -1,3 +1,9 @@
+---
+layout: post
+title: Paper Prototype
+subtitle: Lo-Fi Prototyping
+---
+
 ![All Screens](/img/paperPrototype.png)
 All pieces of the prototype
 
