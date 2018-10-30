@@ -16,7 +16,7 @@ Upon choosing “Route Options” the user can decide to start, and later stop, 
 ![Start](/img/startTracking.jpg)
 The app provides feedback for the user when they start tracking their route.
 
-![Picture](/img/picReview.jpg)
+![Pic Review](/img/picReview.jpg)
 Upon clicking “Review a Piece” the user is taken to an in-app camera.
 
 ![Like](/img/appLike.jpg)
