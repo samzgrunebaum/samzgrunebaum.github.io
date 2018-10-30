@@ -1,4 +1,4 @@
-![All Screens](/img/paperPrototype.jpg)
+![All Screens](/img/paperPrototype.png)
 All pieces of the prototype
 
 ![Menu](/img/appMenu.jpg)
