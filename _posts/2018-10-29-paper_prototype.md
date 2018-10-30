@@ -16,7 +16,7 @@ Upon choosing “Route Options” the user can decide to start, and later stop, 
 ![Start](/img/startTracking.jpg)
 The app provides feedback for the user when they start tracking their route.
 
-![Pic](/img/picLike.jpg)
+![Picture](/img/picLike.jpg)
 Upon clicking “Review a Piece” the user is taken to an in-app camera.
 
 ![Like](/img/appLike.jpg)
@@ -28,7 +28,7 @@ You can use the QR Code to upload the preferences made on your phone app the kio
 ![Upload](/img/appUpload.jpg)
 When the upload is complete, the app gives the user feedback to let them know.
 
-![Curator](/img/curatorEnabled.jpg)
+![Curator Facts](/img/curationEnabled.jpg)
 Upon enabling curator notifications, the user is notified that this setting is active.
 
 ![Banner](/img/curationFact.jpg)
