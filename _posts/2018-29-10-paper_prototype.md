@@ -55,6 +55,10 @@ Users can like or dislike a specific route or can save it by scanning a QR code 
 ![Like Success](/img/routeLikeUpload.jpg)
 Feedback for a successful QR code scan
 
+
+![End Route](/img/stopTracking.jpg)
+At the end of the visit, the user stops tracking their route.
+
 ![Route Options](/img/routeOptions.jpg)
 The final kiosk is stationed right by the door facing the stairs so that users exiting the museum can share, save, or print their routes by scanning the QR code on their phone app with the kiosk’s scanner.
 
