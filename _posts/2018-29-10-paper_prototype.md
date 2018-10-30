@@ -1,13 +1,13 @@
-![Menu](img/appMenu.jpg)
+![Menu](/img/appMenu.jpg)
 Opening the app on one’s phone presents the user with 4 main options for navigation.
 
-![Route](img/trackRoute.jpg)
+![Route](/img/trackRoute.jpg)
 Upon choosing “Route Options” the user can decide to start, and later stop, tracking their route through the museum.
 
-![Start](img/startTracking.jpg)
+![Start](/img/startTracking.jpg)
 The app provides feedback for the user when they start tracking their route.
 
-![Pic](img/picLike.jpg)
+![Pic](/img/picLike.jpg)
 Upon clicking “Review a Piece” the user is taken to an in-app camera.
 
 6.     The camera function gives the user the ability to like or dislike a piece of art.
