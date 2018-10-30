@@ -13,7 +13,7 @@ Opening the app on one’s phone presents the user with 4 main options for navig
 ![Route](/img/trackRoute.jpg)
 Upon choosing “Route Options” the user can decide to start, and later stop, tracking their route through the museum.
 
-![Start](/img/startTracking.jpg)
+![Start](/img/startedTracking.jpg)
 The app provides feedback for the user when they start tracking their route.
 
 ![First Kiosk](/img/kioskFirst.jpg)
