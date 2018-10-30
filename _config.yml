@@ -24,7 +24,7 @@ description: Home for all HCI
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutme"
-  Assignments:
+  Looking to Understand:
     - SWCMA Group Project Proposal: "https://cmpelz.github.io/2018-09-27-group_project_proposal/"
     - Contextual Inquiry Plan: "https://cmpelz.github.io/2018-09-27-contextual_inquiry_plan/"
     - Team Contract: "https://cmpelz.github.io/2018-09-27-team_contract/"
@@ -33,6 +33,7 @@ navbar-links:
     - Task Review: "https://cmpelz.github.io/2018-10-15-task_review/"
     - Project Design Check-In: "https://cmpelz.github.io/2018-10-22-project_design/"
     - User Experience Research Overview: "https://cmpelz.github.io/2018-10-24-ux_research_overview/"
+  Understanding to Make:  
     - Paper Prototype: ""
     
   
