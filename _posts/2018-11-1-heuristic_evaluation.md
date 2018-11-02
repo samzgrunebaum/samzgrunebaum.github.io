@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Heuristic Evaluzation
+title: Heuristic Evaluation
 subtitle: Updated Paper Prototype
 ---
 
