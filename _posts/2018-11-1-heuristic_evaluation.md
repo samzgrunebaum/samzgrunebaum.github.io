@@ -39,3 +39,12 @@ Additionally, the first five photos reflect the users' desire for guidance from 
 ![fifteen](/img/paper15.JPG)
 
 Some of the notes from the evaluations do not feel necessary to address at this point. For instance, we feel the feedback concerning confusion surrounding the logo will be resolved when the actual logo is displayed (this is just a rough sketch). Additionally, feedback would be given after taking a photo through the functionality of the camera in the actual design (similar to how a typial phone camera signals when a photo has been taken).
+
+![kiosk_one](/img/fullsizeoutput_c3f.jpeg)
+![kiosk_two](/img/fullsizeoutput_c3e.jpeg)
+![kiosk_two](/img/fullsizeoutput_c3d.jpeg)
+![kiosk_two](/img/fullsizeoutput_c40.jpeg)
+![kiosk_two](/img/fullsizeoutput_c41.jpeg)
+
+These updated prototypes for the kiosk address the main issue of a lack of back/home buttons in the pages that you get to from the original page on the first floor kiosk. Other than that, they operate the same as in the original paper prototype page. To address the issue of the user being unsure of when to use the kiosk, I will be sure to indicate where the kiosks are located in the museum before asking the subject to use them. The kiosks themselves do not indicate when they are to be used but rather are situated in places where they can be used to find information about the objects that are near them or by the exit as a final activity before leaving the museum.
+
