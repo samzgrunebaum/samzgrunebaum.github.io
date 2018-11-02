@@ -1,6 +1,14 @@
+---
+layout: post
+title: Heuristic Evaluzation
+subtitle: Updated Paper Prototype
+---
+
 The following adjustments to the paper prototype for the mobile app reflect the desire for a "way out" from every screen, as reflected by small x's in the corners of pop-up windows, and back arrows in the corner of every screen.
+
 Additionally, the first five photos reflect the users' desire for guidance from the home menu.
-!(/img/paper1.jpg)
+
+![one](/img/paper1.jpg)
 !(/img/paper2.jpg)
 !(/img/paper3.jpg)
 !(/img/paper4.jpg)
