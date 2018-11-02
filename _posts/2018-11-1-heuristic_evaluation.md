@@ -8,7 +8,7 @@ The following adjustments to the paper prototype for the mobile app reflect the 
 
 Additionally, the first five photos reflect the users' desire for guidance from the home menu.
 
-![one](/img/paper1.jpg)
+![one](/img/paper1.JPG)
 !(/img/paper2.jpg)
 !(/img/paper3.jpg)
 !(/img/paper4.jpg)
