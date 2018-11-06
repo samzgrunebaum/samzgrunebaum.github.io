@@ -69,8 +69,20 @@ __Revisions:__ The "Like/Dislike" button will be revised to have more informatio
 
 
 
+
+
+
 ### Usability Test Overview
 Our first usability test was performed on 11/5/18 with a Williams student who we will refer to as JJ. We chose JJ because they represent what will likely be a large portion of our users: Williams College students. Additionally, JJ is familiar with operating mobile apps and technology like ours, but is unfamiliar with the design process or technology production in general. This was important to us, because we felt it would provide more realistic feedback and create a more authentic user experience. The test was conducted in a quiet, distraction-free room in Science Quad so that we could ensure JJ would stay focussed on the task at hand and thus perform as realistically as possible. Additionally, we chose a quiet space to imitate the natural ambiance of a museum, like WCMA.
 
 
+#### Incident 1, Severity 4
+When the user was asked to use our design to review a piece and learn more about curatorial information regarding the museum exhibition, she was confused by the kiosks and did not know what they were for, how to use them, or how they could help her achieve this task. This is an issue that became apparent as early as our heuristic evaluations in class and one that we have discussed as a group numerous times – while we had initially hoped that the kiosks would help make the experience of using our design more unique while encouraging museum goers to get off their phones, it has become clear the kiosks are both confusing and redundant. As such, this issue has been resolved by eliminating the kiosks from our design and including their functionality (with some improvements) in the mobile app itself. Below are images of the new SWCMA app home screen, as well as the pages that allow users to access the information previously available on the kiosks.
 
+![](/img/home.jpg)
+![](/img/route options.jpg)
+![](/img/review a piece.jpg)
+![](/img/see similar pieces.jpg)
+![](/img/similar piece.jpg)
+![](/img/recent routes:routes including.jpg)
+![](/img/recent route.jpg)
