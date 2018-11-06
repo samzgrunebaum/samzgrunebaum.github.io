@@ -5,7 +5,8 @@ subtitle: Paper Prototype Update
 ---
 
 ### Cognitive Walk-Through
-__Task:__ Curator Notifications
+
+##### Task: Curator Notifications
 
 __Step:__ Expand Notification
 
@@ -24,9 +25,7 @@ __Revisions:__ The "pull down for more options" tab will be relabeled to say "pu
 ![newSmall](/img/usabilitySmallFact.JPG)
 
 
-
-
-__Task:__ Curator Notifications
+##### Task: Curator Notifications
 
 __Step:__ Share
 
@@ -47,9 +46,7 @@ __Revisions:__ The "share" button will have more information about what it means
 ![shared](/img/usabilityShared.JPG)
 
 
-
-
-__Task:__ Like/Dislike a Piece
+##### Task: Like/Dislike a Piece
 
 __Step:__ Like/Dislike
 
