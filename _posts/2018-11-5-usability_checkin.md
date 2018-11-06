@@ -59,3 +59,8 @@ __Revisions:__ The "Like/Dislike" button will be revised to have more informatio
 ![newLike](/img/usabilityLiking.JPG)
 ![newLiked](/img/usabilityLiked.JPG)
 ![newDisliked](/img/usabilityDisliked.JPG)
+
+
+#### Usability Test Overview
+Our first usability test was performed on 11/5/18 with a Williams student who we will refer to as JJ. We chose JJ because they represent what will likely be a large portion of our users: Williams College students. Additionally, JJ is familiar with operating mobile apps and technology like ours, but is unfamiliar with the design process or technology production in general. This was important to us, because we felt it would provide more realistic feedback and create a more authentic user experience. The test was conducted in a quiet, distraction-free room in Science Quad so that we could ensure JJ would stay focussed on the task at hand and thus perform as realistically as possible. Additionally, we chose a quit space to imitate the natural ambiance of a museum like WCMA.
+
