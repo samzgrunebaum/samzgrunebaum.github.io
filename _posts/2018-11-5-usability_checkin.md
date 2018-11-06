@@ -81,14 +81,14 @@ When the user was asked to use our design to review a piece and learn more about
 
 ![](/img/home.jpg)
 
-![](/img/route options.jpg)
+![](/img/routeoptions.jpg)
 
-![](/img/review a piece.jpg)
+![](/img/reviewapiece.jpg)
 
-![](/img/see similar pieces.jpg)
+![](/img/seesimilarpieces.jpg)
 
-![](/img/similar piece.jpg)
+![](/img/similarpiece.jpg)
 
-![](/img/recent routes:routes including.jpg)
+![](/img/recentroutes:routesincluding.jpg)
 
-![](/img/recent route.jpg)
+![](/img/recentroute.jpg)
