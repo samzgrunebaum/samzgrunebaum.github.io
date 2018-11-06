@@ -18,8 +18,9 @@ Details: Currently the label says "pull down for more options", but when you pul
 ![small](/img/paper9.JPG)
 ![big](/img/paper10.JPG)
 
-Revisions: The "pull down for more options" tab will be relabeled to say "pull down for more info"
+Revisions: The "pull down for more options" tab will be relabeled to say "pull down for more info".
 
+![newSmall](/img/usabilitySmallFact.JPG)
 
 
 Task: Curator Notifications
@@ -36,6 +37,10 @@ Details: At the bottom of the curator notification, there's a button to share th
 
 Revisions: The "share" button will have more information about what it means to share. A page will be created to do the actual sharing.
 
+![newBig](/img/usabilityBigFact.JPG)
+![share Page](/img/usabilityShare.JPG)
+![shared](/img/usabilityShared.JPG)
+
 
 Task: Like/Dislike a Piece
 
@@ -50,6 +55,10 @@ Details: The "Like/Dislike" button does not make it clear what you're liking or 
 ![like](/img/paper12.JPG)
 
 Revisions: The "Like/Dislike" button will be revised to have more information, and a pop-up window will provide feedback upon registering input.
+
+![newLike](/img/usabilityLike.JPG)
+![newLiked](/img/usabilityLiked.JPG)
+![newDisliked](/img/usabilityDisliked.JPG)
 
 
 An image of the relevant portion of the prototype.
