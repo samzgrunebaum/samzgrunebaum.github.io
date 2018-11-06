@@ -76,7 +76,7 @@ When JJ arrived, we told them that they would be simulating a visit to WCMA usin
 This level of detail carried over into the way we acted as the “computer”. Casey was the “Wizard” operating the screen changes and Sam was the observer. During the test, certain guidance had to be given such as informing JJ that the crudely drawn representation of a camera was in fact meant to simulate them taking a picture. Additionally, we had to give context for some of the actions such as “you have just arrived at a piece you like a lot” or “you have reached the end of your visit”. We believed this input did not tamper with the test, as it would be obvious if we were in the museum or had a functioning digital prototype.
 
 
-#### Incident 1, Severity 4
+##### Incident 1, Severity 4
 When the user was asked to use our design to review a piece and learn more about curatorial information regarding the museum exhibition, she was confused by the kiosks and did not know what they were for, how to use them, or how they could help her achieve this task. This is an issue that became apparent as early as our heuristic evaluations in class and one that we have discussed as a group numerous times – while we had initially hoped that the kiosks would help make the experience of using our design more unique while encouraging museum goers to get off their phones, it has become clear the kiosks are both confusing and redundant. As such, this issue has been resolved by eliminating the kiosks from our design and including their functionality (with some improvements) in the mobile app itself. Below are images of the new SWCMA app home screen, as well as the pages that allow users to access the information previously available on the kiosks.
 
 ![](/img/home.jpg)
@@ -94,11 +94,11 @@ When the user was asked to use our design to review a piece and learn more about
 ![](/img/recentroute.jpg)
 
 
-#### Incident 2, Severity 1
+##### Incident 2, Severity 1
 The mobile app platform in our design has a series of pop-up windows that offer feedback along the way. These windows have a small 'x' in a circle in the corner that is meant to serve as a means of closing out of the pop-up; however, JJ was at times confused about what they were, and as a result, how to exit the pop-up. As a resolution, we changed the 'x's so they are instead in boxes, which we though might be more recognizable as an indication of exiting. We will try this design in our next usability test, and if it still proves to be problematic, we may consider changing the color or size to make it even more recognizable.
 
 ![](/img/newX.jpg)
 
 
-#### New Paper Prototype Pieces
+### New Paper Prototype Pieces
 ![](/img/kioskFree.jpg)
