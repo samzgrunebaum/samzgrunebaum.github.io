@@ -68,12 +68,12 @@ __Revisions:__ The "Like/Dislike" button will be revised to have more informatio
 
 
 
-
-
-
-
 ### Usability Test Overview
 Our first usability test was performed on 11/5/18 with a Williams student who we will refer to as JJ. We chose JJ because they represent what will likely be a large portion of our users: Williams College students. Additionally, JJ is familiar with operating mobile apps and technology like ours, but is unfamiliar with the design process or technology production in general. This was important to us, because we felt it would provide more realistic feedback and create a more authentic user experience. The test was conducted in a quiet, distraction-free room in Science Quad so that we could ensure JJ would stay focussed on the task at hand and thus perform as realistically as possible. Additionally, we chose a quiet space to imitate the natural ambiance of a museum, like WCMA.
+
+When JJ arrived, we told them that they would be simulating a visit to WCMA using the phone app SWCMA and a series of kiosks. We explained that we wanted them to think out loud and voice any and all points of confusion, and that we were not judging their ability to use the design, but rather the design's usability. We instructed them to walk in a route around the museum (metaphorically of course), stopping to register pieces they particularly liked or didn’t like, and learning things about the curators’ perspectives on the exhibits. In describing the tasks, we attempted to use vague enough terminology that we weren’t explicitly guiding them down a specific path of action. However, we also needed to give some amount of detail due to the artificiality of being removed from the museum itself.
+
+This level of detail carried over into the way we acted as the “computer”. Casey was the “Wizard” operating the screen changes and Sam was the observer. During the test, certain guidance had to be given such as informing JJ that the crudely drawn representation of a camera was in fact meant to simulate them taking a picture. Additionally, we had to give context for some of the actions such as “you have just arrived at a piece you like a lot” or “you have reached the end of your visit”. We believed this input did not tamper with the test, as it would be obvious if we were in the museum or had a functioning digital prototype.
 
 
 #### Incident 1, Severity 4
@@ -92,3 +92,7 @@ When the user was asked to use our design to review a piece and learn more about
 ![](/img/recentroutes:routesincluding.jpg)
 
 ![](/img/recentroute.jpg)
+
+
+#### Incident 2, Severity 1
+The mobile app platform in our design has a series of pop-up windows that offer feedback along the way. These windows have a small 'x' in a circle in the corner that is meant to serve as a means of closing out of the pop-up
