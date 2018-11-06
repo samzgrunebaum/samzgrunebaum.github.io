@@ -97,4 +97,8 @@ When the user was asked to use our design to review a piece and learn more about
 #### Incident 2, Severity 1
 The mobile app platform in our design has a series of pop-up windows that offer feedback along the way. These windows have a small 'x' in a circle in the corner that is meant to serve as a means of closing out of the pop-up; however, JJ was at times confused about what they were, and as a result, how to exit the pop-up. As a resolution, we changed the 'x's so they are instead in boxes, which we though might be more recognizable as an indication of exiting. We will try this design in our next usability test, and if it still proves to be problematic, we may consider changing the color or size to make it even more recognizable.
 
-![]
+![](/img/newX.jpg)
+
+
+#### New Paper Prototype Pieces
+![](/img/kioskFree.jpg)
