@@ -56,7 +56,7 @@ Details: The "Like/Dislike" button does not make it clear what you're liking or 
 
 Revisions: The "Like/Dislike" button will be revised to have more information, and a pop-up window will provide feedback upon registering input.
 
-![newLike](/img/usabilityLike.JPG)
+![newLike](/img/usabilityLiking.JPG)
 ![newLiked](/img/usabilityLiked.JPG)
 ![newDisliked](/img/usabilityDisliked.JPG)
 
