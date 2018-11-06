@@ -4,7 +4,7 @@ title: Usability Check-In
 subtitle: Paper Prototype Update
 ---
 
-#### Cognitive Walk-Through
+### Cognitive Walk-Through
 __Task:__ Curator Notifications
 
 __Step:__ Expand Notification
@@ -16,6 +16,7 @@ __Severity:__ 2
 __Details:__ Currently the label says "pull down for more options", but when you pul down you are brought to a screen entitled "More Info", which we anticipate being very confusing.
 
 ![small](/img/paper9.JPG)
+
 ![big](/img/paper10.JPG)
 
 __Revisions:__ The "pull down for more options" tab will be relabeled to say "pull down for more info".
@@ -38,7 +39,9 @@ __Details:__ At the bottom of the curator notification, there's a button to shar
 __Revisions:__ The "share" button will have more information about what it means to share. A page will be created to do the actual sharing.
 
 ![newBig](/img/usabilityBigFact.JPG)
+
 ![share Page](/img/usabilityShare.JPG)
+
 ![shared](/img/usabilityShared.JPG)
 
 
@@ -57,10 +60,12 @@ __Details:__ The "Like/Dislike" button does not make it clear what you're liking
 __Revisions:__ The "Like/Dislike" button will be revised to have more information, and a pop-up window will provide feedback upon registering input.
 
 ![newLike](/img/usabilityLiking.JPG)
+
 ![newLiked](/img/usabilityLiked.JPG)
+
 ![newDisliked](/img/usabilityDisliked.JPG)
 
 
-#### Usability Test Overview
+### Usability Test Overview
 Our first usability test was performed on 11/5/18 with a Williams student who we will refer to as JJ. We chose JJ because they represent what will likely be a large portion of our users: Williams College students. Additionally, JJ is familiar with operating mobile apps and technology like ours, but is unfamiliar with the design process or technology production in general. This was important to us, because we felt it would provide more realistic feedback and create a more authentic user experience. The test was conducted in a quiet, distraction-free room in Science Quad so that we could ensure JJ would stay focussed on the task at hand and thus perform as realistically as possible. Additionally, we chose a quit space to imitate the natural ambiance of a museum like WCMA.
 
