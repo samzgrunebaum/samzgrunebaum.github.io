@@ -24,6 +24,8 @@ __Revisions:__ The "pull down for more options" tab will be relabeled to say "pu
 ![newSmall](/img/usabilitySmallFact.JPG)
 
 
+
+
 __Task:__ Curator Notifications
 
 __Step:__ Share
@@ -45,6 +47,8 @@ __Revisions:__ The "share" button will have more information about what it means
 ![shared](/img/usabilityShared.JPG)
 
 
+
+
 __Task:__ Like/Dislike a Piece
 
 __Step:__ Like/Dislike
@@ -64,6 +68,8 @@ __Revisions:__ The "Like/Dislike" button will be revised to have more informatio
 ![newLiked](/img/usabilityLiked.JPG)
 
 ![newDisliked](/img/usabilityDisliked.JPG)
+
+
 
 
 ### Usability Test Overview
