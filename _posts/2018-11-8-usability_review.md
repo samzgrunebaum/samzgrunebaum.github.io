@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Usability Check-In
-subtitle: Paper Prototype Update
+title: Usability Review
+subtitle: Final Round of Usability Tests
 ---
 
 ### Usability Tests Overview
