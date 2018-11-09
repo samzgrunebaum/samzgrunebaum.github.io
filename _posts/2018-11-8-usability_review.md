@@ -11,9 +11,9 @@ The three usability tests all took place in the same environment: a quiet, distr
 ##### Incident 1, Severity 3
 It took AA a while to begin tracking their route because they were confused by the burron “Route Options”. They thought this button might lead them to possible routes they could follow through the museum, instead of allowing them to begin tracking their route. Despite the help window that pops up, they still expressed great hesitation in pressing the button, resulting in not tracking their route from the beginning. The resolution to this incident is really quite simple. Instead of leading to a page with more options, the button will simply say “Start Tracking Route”, making it clear what the user is meant to do. Upon clicking the button, it’s label will switch to “Stop Tracking Route” so that users can ignore it until they finish their visit.
 
-![](/img/urStartTracking.JPG)
+![](/img/urHome.JPG)
 
 ##### Incident 2, Severity 1
 When given the option to share things such as routes or pieces of art, AA expressed that they don’t really have any interest in sharing with people that aren’t with them in the exhibit. While this may just be a personal preference (in which case we would still leave the sharing option), it did alert us to another potential change to make. Because AA wasn’t interested in sharing, she never pressed the button on the home screen labeled “Share/Save/Print Your Route”, which in turn kept her from printing or saving her route which may be of more interest. Given this aversion to sharing, we decided to relabel the button “Remember Your Route” which we hope will encourage people to click on that option and in turn leave their visit with some memento of their route, which is ultimately one of our main goals with the app.
 
-![](/img/urRememberRoute.JPG)
+![](/img/urHome.JPG)
