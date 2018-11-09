@@ -1,3 +1,9 @@
+---
+layout: post
+title: Final Paper Prototype
+subtitle: Walk-Through
+---
+
 ![](/img/urHomeInfo.JPG)
 User can get help windows to explain each button
 
