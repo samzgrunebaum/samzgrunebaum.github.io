@@ -48,6 +48,8 @@ Upon choosing an interesting route, the user can share it or go to other similar
 
 The user can once again share their route via text or email.
 
+
+
 ### Task 2: Continued engagement with the users favorite or most memorable pieces
 ![](/img/dm.png)
 
