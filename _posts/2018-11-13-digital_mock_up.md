@@ -7,8 +7,8 @@ title: Digital Mock-Up
 
 ![](/img/digitalMockUp.png)
 
-### Difficulties
-During our mock-up process we encountered a number of small difficulties that required minute adjustments.  We added a home button, using a house icon, to the top right corner of every screen to allow the user the ability to return to the home screen at any time.  We also toggled with the color scheme and use of white space in order to best direct the user to important design and functionality components and not overcrowd the screen.
+### Decisions and Changes Made During Implementation
+During our mock-up implementation process we encountered a number of small difficulties that required minute adjustments.  We added a home button, using a house icon, to the top right corner of every screen to allow the user the ability to return to the home screen at any time.  We also toggled with the color scheme and use of white space in order to best direct the user to important design and functionality components and not overcrowd the screen while maintaining a design aesthetic that is consistent with WCMA's general look. Difficulties included drawing freehand routes for examples and making sure that the alignment of buttons that are constant in each page remained consistent between pages.
 
 ### Task 1: Agency in one's museum experience
 
