@@ -9,6 +9,4 @@ This paper made me think of a new functionality for our project. At this point w
 
 
 #### Citation
-Styliani, Sylaiou, et al. “Virtual Museums, a Survey and Some Issues for Consideration.” 
-Journal of Cultural Heritage, vol. 10, no. 4, Dec. 2009, pp. 520–528., 
-doi:10.1016/j.culher.2009.03.003.
+Styliani, Sylaiou, et al. “Virtual Museums, a Survey and Some Issues for Consideration.” Journal of Cultural Heritage, vol. 10, no. 4, Dec. 2009, pp. 520–528., doi:10.1016/j.culher.2009.03.003.
