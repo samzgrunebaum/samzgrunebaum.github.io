@@ -8,5 +8,5 @@ title: Research Paper Report
   This paper made me think of a new functionality for our project. At this point we’ve designed the ability to see “similar pieces” in the digital collection and routes that once contained these pieces. However, it could be interesting to entertain the idea of creating a virtual representation of the piece in the exhibit how it once was. I know another group is doing something similar to this, so maybe we could simply combine our designs. A key difference between our design and the paper is that ours would be an in-museum and retrospective virtual experience. Not only would this avoid the logistics of getting virtual visitors to become physical visitors, but it would enhance the virtual experience by situating it in the space it’s recreating. This would be a large redesigning process, but we could even integrate a virtual version of the route. Since one of the main goals of our design is for users to be able to feel as though they are creating something with their movement through the museum, a virtual route would be an exciting product to end with and to share with friends.
 
 
-##### Citation
+#### Citation
 Styliani, Sylaiou, et al. “Virtual Museums, a Survey and Some Issues for Consideration.” Journal of Cultural Heritage, vol. 10, no. 4, Dec. 2009, pp. 520–528., doi:10.1016/j.culher.2009.03.003.
