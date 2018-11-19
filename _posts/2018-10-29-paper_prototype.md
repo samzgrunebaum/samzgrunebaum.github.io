@@ -8,7 +8,7 @@ subtitle: Lo-Fi Prototyping
 The prototype reflects both the kiosk and mobile aspects of the design. During a museum visit, the user will alternate between the platforms reflected below.
 
 
-#### Task 1: Agency in one’s museum experience
+### Task 1: Agency in one’s museum experience
 The user can gain agency in their visit by tracking their route and receiving a souvenir of it when they leave, indicating pieces (both in the museum and on the kiosk) and routes they have strong feelings about, and seeing similar pieces in WCMA's entire collection and routes that include selected pieces. 
 
 ![Menu](/img/appMenu.jpg)
@@ -60,7 +60,7 @@ The final kiosk is stationed right by the door facing the stairs so that users e
 Feedback for successful scanning in of routes displays a success message and a small image of the route that can be printed, shared, or saved to your account.
 
 
-#### Task 2: Learning about the curator’s perspective and vision for the exhibit
+### Task 2: Learning about the curator’s perspective and vision for the exhibit
 The user enables "curator notifications" and the mobile app provides banner style notifications with insight about the curator's intention for the user's specific location in the exhibit.
 
 ![Curator Facts](/img/curationEnabled.jpg)
